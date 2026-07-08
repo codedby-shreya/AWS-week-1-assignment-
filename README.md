@@ -2,7 +2,7 @@
 
 ## Week 1 Assignment: Introduction to Cloud Computing & AWS Basics
 
-**Student Name:** Subham Prasad Nayak
+**Student Name:** Shreya jha 
 
 ---
 
@@ -155,4 +155,4 @@ AWS requires payment verification with a valid credit or debit card before provi
 
 ## Author
 
-**Subham Prasad Nayak**
+**Shreya jha**
